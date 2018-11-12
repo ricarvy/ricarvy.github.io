@@ -2,7 +2,7 @@
 
 大家好，我是干脆面，今天要给大家讲一个我和我的朋友ricarvy的故事。
 
-![从程序员到人工智障](Traditional_ml_methods/image/decision_tree/0.jpg)
+![从程序员到人工智障](https://github.com/ricarvy/ricarvy.github.io/blob/master/Traditional_ml_methods/image/decision_tree/0.jpg)
 
 在一个风和日丽的下午，我刚刚睡醒，突然接到了ricavy打来的一个电话：
 
@@ -86,8 +86,3 @@ Ri:肯定是先根据颜值啊，然后，你看这些有武器的，一看就�
 ![从程序员到人工智障]()
 
 Ri:
-
-
-
-
-
